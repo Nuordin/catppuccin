@@ -25,6 +25,6 @@ return {
 	-- base = "#1e1e2e",
 	base = "#23252e",
 	-- mantle = "#181825",
-	mantle = "#23252e",
+	mantle = "#20222b",
 	crust = "#11111b",
 }
